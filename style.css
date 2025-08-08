@@ -1,0 +1,19 @@
+body{background-color: rgb(234, 234, 234);}
+
+
+img{
+    width: 100%;}
+
+h1{
+    color: rgb(66, 17, 17);
+}
+
+.mitad{
+    columns: 2;
+}
+
+
+.abajo{
+    columns: 4;
+    column-rule: 2px dashed
+}
